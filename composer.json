@@ -1,0 +1,15 @@
+{
+    "name": "inamu/products-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "inamullah-handoo",
+            "email": "inamullah.javaid.100@gmail.com"
+        }
+    ],
+    "require": {}
+}
